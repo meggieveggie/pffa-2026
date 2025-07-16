@@ -43,7 +43,7 @@ const collapseNavbar = () => {
         <span class="caret ms-1"></span>
         </template>
         <b-dropdown-item class="nav-item-spacing"><a href="https://2024.pornfilmfestival.amsterdam" target="_blank" rel="noopener noreferrer" @click="collapseNavbar">2024</a></b-dropdown-item>
-        <b-dropdown-item class="nav-item-spacing"><a href="https://2024.pornfilmfestival.amsterdam" target="_blank" rel="noopener noreferrer" @click="collapseNavbar">2025</a></b-dropdown-item>
+        <b-dropdown-item class="nav-item-spacing"><a href="https://2025.pornfilmfestival.amsterdam" target="_blank" rel="noopener noreferrer" @click="collapseNavbar">2025</a></b-dropdown-item>
         </b-nav-item-dropdown>
       </b-navbar-nav>
     </b-collapse>
